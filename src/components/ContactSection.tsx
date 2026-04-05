@@ -12,7 +12,7 @@ const ContactSection = () => {
             </div>
             <p className="font-semibold text-lg">Ayush Sharma</p>
             <p className="text-secondary-foreground/70 text-sm">CO-Founder</p>
-              <p className="font-semibold text-lg">Suryansh atri</p>
+              <p className="font-semibold text-lg">Suryansh Atri</p>
             <p className="text-secondary-foreground/70 text-sm">CO-Founder</p>
           </div>
           <div className="flex flex-col items-center gap-3">
