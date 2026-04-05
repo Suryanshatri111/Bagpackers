@@ -38,6 +38,9 @@ const ContactSection = () => {
         <div className="mt-12 pt-8 border-t border-secondary-foreground/20 text-secondary-foreground/60 text-sm">
           © 2026 Bagpackers Explores. All rights reserved. Est. 2026
         </div>
+        <div className="mt-12 pt-8 border-t border-secondary-foreground/20 text-secondary-foreground/60 text-sm">
+         DEVLOPED BY SURYANSH ATRI
+        </div>
       </div>
     </section>
   );
