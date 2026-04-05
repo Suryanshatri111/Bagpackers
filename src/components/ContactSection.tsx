@@ -33,9 +33,6 @@ const ContactSection = () => {
             <a href="mailto:enterprisesmy111@gmail.com" className="font-semibold text-lg hover:text-primary transition-colors break-all">
               enterprisesmy111@gmail.com
             </a>
-            <a href="instagram:bagp.ackers" className="font-semibold text-lg hover:text-primary transition-colors break-all">
-              Bagpackers
-            </a> 
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-secondary-foreground/20 text-secondary-foreground/60 text-sm">
