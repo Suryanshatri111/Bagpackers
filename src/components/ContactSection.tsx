@@ -11,7 +11,9 @@ const ContactSection = () => {
               <User className="w-6 h-6 text-primary-foreground" />
             </div>
             <p className="font-semibold text-lg">Ayush Sharma</p>
-            <p className="text-secondary-foreground/70 text-sm">Founder</p>
+            <p className="text-secondary-foreground/70 text-sm">CO-Founder</p>
+              <p className="font-semibold text-lg">Suryansh atri</p>
+            <p className="text-secondary-foreground/70 text-sm">CO-Founder</p>
           </div>
           <div className="flex flex-col items-center gap-3">
             <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
@@ -19,6 +21,9 @@ const ContactSection = () => {
             </div>
             <a href="tel:+917023388262" className="font-semibold text-lg hover:text-primary transition-colors">
               +91 7023388262
+            </a>
+                 <a href="tel:+919314649166" className="font-semibold text-lg hover:text-primary transition-colors">
+              +91 9314649166
             </a>
           </div>
           <div className="flex flex-col items-center gap-3">
